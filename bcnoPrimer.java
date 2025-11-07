@@ -9,7 +9,7 @@ public class bcnoPrimer {
         boolean primer = true;
 
         if (num != 1) {
-            for (int i = 2; i < num; i++) {
+            for (int i = 5; i < num; i++) {
                 if (num % i == 0) {
                     primer = false;
                     break;
