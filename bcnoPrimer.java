@@ -17,7 +17,7 @@ public class bcnoPrimer {
             }
             String result = (primer)? ("El nombre " + num + " es primer"):("El nombre " + num + " no es primer");
             System.out.println(result);
-            
+            //Hola Ilyass
         }
     }
 }
