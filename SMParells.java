@@ -4,6 +4,7 @@ public class SMParells {
     public static void main(String[] args) {
         Scanner llegir = new Scanner(System.in);
 
+        System.out.print("Soc el Youssef jaja");
         System.out.print("Soc el Youssef JEJE");
         System.out.print("Introdueix el primer límit: ");
         int inici = llegir.nextInt();
