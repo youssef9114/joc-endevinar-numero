@@ -7,6 +7,7 @@ public class bcNotas {
         int suspesos = 0, aprovats = 0, notables = 0, excellents = 0;
         double nota;
 
+        System.out.println("Buenos dias");
         System.out.println("Introdueix les notes:");
 
         System.out.print("Nota: ");
